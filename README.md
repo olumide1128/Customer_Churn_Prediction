@@ -20,3 +20,7 @@ For this project, I used the Random Forest Classifier to train a model to predic
   # Screenshots
   
 ![](https://github.com/olumide1128/Customer_Churn_Prediction/blob/master/screenshots/Screenshot%20(179).png)
+
+# Feature Extraction - Most Important Features
+
+![](https://github.com/olumide1128/Customer_Churn_Prediction/blob/master/screenshots/python-for-predicting-customer-churn_3.png)
